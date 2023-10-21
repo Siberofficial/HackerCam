@@ -8,4 +8,4 @@
 .bash_history
 .bashrc
 .zshrc
-#/private/*.sh
+/private/*.sh
